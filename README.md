@@ -5,5 +5,5 @@ this is test my repo
     Hello: Alexandra Abramov
 
     -------------------------
-    Console.WriteLine("Hello : ");
+    Console.Write("Hello: ");
     Console.WriteLine("Alexandra Abramov");
