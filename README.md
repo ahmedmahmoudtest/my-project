@@ -7,3 +7,6 @@ this is test my repo
     -------------------------
     Console.Write("Hello: ");
     Console.WriteLine("Alexandra Abramov");
+-------------------------
+Console.Write("Hello: ");
+Console.WriteLine("Alexandra Abramov");
